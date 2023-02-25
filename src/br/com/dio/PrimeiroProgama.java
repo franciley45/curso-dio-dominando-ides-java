@@ -10,9 +10,7 @@ public class PrimeiroProgama {
 		Livros livros = new Livros();
 		System.out.println(livros);
 		System.out.println(gato);
-		/*
-		 * int A = 2; int B = 3; System.out.println("Helo Word!!!!!" + (A + B));
-		 */
+//		
 	}
 
 }
