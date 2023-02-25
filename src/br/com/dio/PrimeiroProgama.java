@@ -18,6 +18,7 @@ public class PrimeiroProgama {
  class Livros {
 	private String nome;
 	private String npag;
+	private String autor;
 
 	public Livros() {
 		super();
